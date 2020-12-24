@@ -7,4 +7,4 @@ Para poder utilizarla únicamente bajarla, abrirla y en la terinal ingresar el s
  `npm install.`
  
 El funcionamiento de la Api este en el siguiente link.
-[Api funcional en heroku](http://https://kingche-apifinal-series.herokuapp.com/serie "Api funcional en heroku")
+[Api funcional en heroku](https://kingche-apifinal-series.herokuapp.com/serie "Api funcional en heroku")
